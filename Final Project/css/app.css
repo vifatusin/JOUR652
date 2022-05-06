@@ -1,4 +1,8 @@
-.box1{background-color: #ffffff;}
+.box1{
+  background-color: #ffffff;
+  padding-left: 30px;
+  padding-right: 30px;
+}
 
 .mainheader{
   background-image: url(../images/thief_crime.jpg);
@@ -12,6 +16,7 @@ h1 {
   font-size: 60px;
   color: #000000;
   text-align: center;
+  text-shadow: 2px 2px #000000
 }
 
 h2{
@@ -19,6 +24,7 @@ h2{
   font-size: 30px;
   color: #000000;
   text-align: center;
+  text-shadow: 2px 2px #000000
 }
 
 h3 {
@@ -33,6 +39,7 @@ p{
 }
 
 .quotes {
+  background-color: #ffffff;
   font-family: 'Tapestry', cursive;
   font-size: 60px;
   color: #000000;
